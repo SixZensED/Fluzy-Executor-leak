@@ -1,2 +1,0 @@
-# ทั้งหมดนี้ คือ ตัวรัน Fluxzy or Fluzy Executor สำหรับ Roblox Scripts 
-- นำไป Compile เอง / ใช้ในกรณีศึกษา
